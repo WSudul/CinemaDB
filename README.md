@@ -9,7 +9,7 @@ Initial draft created with MySQL Workbench.
 
 #TODO list:
 
-1. opis notacji Crow Foot (ulepszony Baker (Oracle))
+1. opis notacji Crow Foot (ulepszony Baker (Oracle)) - Aleksandra
 2. cel projektu, co to jest i po co
 3. dokumentacja opisana w ramach schematu ERD ( Mr Haladyn aka Paladin )
 4. poprawienie ERD (kwestia weak/solid relationship + <s>usuniecie/zmienienie nazw wygenerowanych FK)- BRAK zaleznosci Bilet <->miejsce </s> relacja Bilet miejsce wyciagana poprzez Zamowienie->ZamowienieMiejsce!, Film_ma_Gatunki stanowi weak entity, (to samo dla Bilet i Znizka?) 
